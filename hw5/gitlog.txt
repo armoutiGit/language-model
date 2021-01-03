@@ -1,0 +1,167 @@
+commit 2124dfd120f1bbd0308fe90051053b0c87afd479
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Fri Nov 6 15:23:33 2020 -0500
+
+    more tweaks
+
+commit f55ca5378f254911d51f27bb73a4a6405f49ba89
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Fri Nov 6 14:56:44 2020 -0500
+
+    final tweaks
+
+commit 50a9915fdc0be686f5bddfcf7db01a47f063ffb3
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Thu Nov 5 03:26:26 2020 -0500
+
+    all operations working, no valgrind errors
+
+commit 912996d7307d0962ac33597626b9653e663c77c2
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Nov 4 13:13:46 2020 -0500
+
+    a, d, c working, need to implement f
+
+commit e3c71b7b02fa344aa1ea0ad56df977318e218d6c
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Nov 4 04:11:46 2020 -0500
+
+    c op working
+
+commit 95488bbbc76e5d4f40c162275493ce457f28f997
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Tue Nov 3 15:14:59 2020 -0500
+
+    a and d ops seem to work
+
+commit e42558d687978508211c0fd48c0f127f6b3898a5
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Tue Nov 3 05:03:22 2020 -0500
+
+    started hw5 - written some starter code
+
+commit 0a9bfc6935a95e5c61f0d6dfffb7ada1ad4981eb
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Fri Oct 2 17:28:44 2020 -0400
+
+    all test functions passed
+
+commit e032104f5285d5be8565167906b427ff1b0c24e9
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Fri Oct 2 05:55:26 2020 -0400
+
+    tests passed - need to check valgrind
+
+commit c05fa3721a55799cdab60d49eed8d61fdbf3de6b
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Thu Oct 1 18:08:39 2020 -0400
+
+    some edge cases failing tests - need to check
+
+commit 62c8ff2ba50007a1ac9d41d3458d6c1e6a15def1
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Tue Sep 29 17:33:03 2020 -0400
+
+    seems all is good - run tests
+
+commit 1a912d45d6f8796f7bdab12e6cd3d07ebf013ab0
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Tue Sep 29 09:30:35 2020 -0400
+
+    kleene star and tilde seem to work, done for now
+
+commit ce6a043d1f327811066db5ecd13f5a4657301e9d
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Tue Sep 29 03:46:33 2020 -0400
+
+    added to file funcions.c - need to fix bugs
+
+commit 39af12053cc6a34b4df7dc5800f535ecc5c2266e
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Mon Sep 28 17:37:39 2020 -0400
+
+    created some helper methods in functions.c
+
+commit e060bab49b394949b0dadf9805735a7b312d634e
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Mon Sep 28 14:04:48 2020 -0400
+
+    words in text file placed in 2d char array
+
+commit fdc6d77ade3db724c15472c86d8b0e74a06db477
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Sep 27 08:42:21 2020 -0400
+
+    started hw3
+
+commit b2304df15641c589d8074d5bc6f4003d8b3023a8
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Sep 16 06:36:20 2020 -0400
+
+    final changes
+
+commit 23c7c53cf9ffad90f444a04ae8fc79f0c813f842
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Sep 16 06:02:37 2020 -0400
+
+    added comments
+
+commit 3e0319a3273d136724bdead387ca0ea07d1b39a3
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Tue Sep 15 11:05:40 2020 -0400
+
+    ran tests - all good
+
+commit 556f60af371292e514e006931e607cc7020e021b
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Sep 13 16:25:18 2020 -0400
+
+    finished but need to test
+
+commit 1841aaa4e8c0dd71d782af286dee4e045e861c51
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Sep 13 05:01:04 2020 -0400
+
+    completed helper methods
+
+commit d62fa308907ee6e86f21d3aeacdf01aed7ade3a7
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sat Sep 12 04:22:03 2020 -0400
+
+    created file with skeleton code
+
+commit 368c8d8aa6fc6140dec920bcb293dfa925bbf53e
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Thu Sep 10 07:04:22 2020 -0400
+
+    done for now
+
+commit a202cffcd7876f719c0b7ceeed77880b0fe46128
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Thu Sep 10 05:45:01 2020 -0400
+
+    done for now
+
+commit f891be6b56cf2e3e9c478ebef42ffd1563ee8d04
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Wed Sep 9 14:26:59 2020 -0400
+
+    done for now
+
+commit 36c452c5a98c5c14b616c7e5835224acd2a345e1
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Sep 6 08:52:34 2020 -0400
+
+    created prize files
+
+commit 95ab3aec8a4ded1c21c1e18958fa70be39c7036c
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Sep 6 03:50:01 2020 -0400
+
+    Updated README
+
+commit 05a3d63c9d4cfb732e427ebbe2ce194c744f4e2d
+Author: Abdullah Al Armouti <aalarmo1@jhu.edu>
+Date:   Sun Sep 6 03:23:32 2020 -0400
+
+    created README

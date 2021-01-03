@@ -1,0 +1,10 @@
+Abdullah Al Armouti
+aalarmo1
+
+In my language_model.cpp file, I created a function to read input and call the operation the user wants.
+I created a function that checks for errors in the user input by validating command line arguments.
+Then there are functions for a, d, c and f that perform an operation.
+Function c_operation() has a helper method called wayToSort()
+
+For all functions except c_operation(), I used a map to work with the trigrams.
+For c_operation() I converted the map of trigrams to a vector of pairs for added flexibility in sorting.
